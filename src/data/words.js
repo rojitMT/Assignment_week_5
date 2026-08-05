@@ -1,14 +1,19 @@
 const words = [
   "APPLE",
-  "GRAPE",
   "HOUSE",
-  "PLANT",
-  "MOUSE",
-  "TRAIN",
-  "SMILE",
   "CHAIR",
+  "SMILE",
+  "PLANT",
+  "TRAIN",
+  "MOUSE",
+  "WATER",
+  "GRAPE",
   "BREAD",
-  "WATER"
+  "LIGHT",
+  "PHONE",
+  "TABLE",
+  "CLOUD",
+  "EARTH"
 ];
 
 export default words;
