@@ -1,7 +1,14 @@
+import Row from "./Row";
+
 function GameBoard() {
     return (
         <div>
-            <h2>Game Board</h2>
+            <Row />
+            <Row />
+            <Row />
+            <Row />
+            <Row />
+            <Row />
         </div>
     );
 }
